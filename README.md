@@ -50,4 +50,4 @@ Conclusion
 
 This project taught me the value of clear data processes and evidence-based decision-making. The same analytical mindset that helps win fantasy leagues applies to business strategy and performance analysis.
 
-You can explore the interactive Tableau dashboard [link] or view the full Python analysis on GitHub [link](https://github.com/tduthil/fantasy-football-data-analysis)].
+You can explore the interactive Tableau dashboard [link] or view the full Python analysis on GitHub [[link](https://github.com/tduthil/fantasy-football-data-analysis/blob/77e31bfc8dc959e7e3e852d6f14393d101f9ec89/notebooks/ff_data_analysis.ipynb)].
