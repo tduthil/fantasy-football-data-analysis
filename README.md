@@ -25,9 +25,14 @@ Analysis & Insights
 After cleaning and categorizing the data, I built rankings and value tiers to highlight elite players across positions.
 For instance:
 
-A bar chart revealed that only a handful of running backs exceeded 250 fantasy points, underscoring positional scarcity.
+A histogram revealed that only a handful of running backs exceeded 10 total touchdowns (TOT_TDS), underscoring positional scarcity.
+<img width="841" height="448" alt="image" src="https://github.com/user-attachments/assets/a36968eb-7b94-4dc0-8a28-b071b28cc53c" />
+
+
 
 A heatmap showed reception distributions by position, confirming that wide receivers dominate in PPR formats.
+<img width="772" height="606" alt="image" src="https://github.com/user-attachments/assets/c0dfeb45-afcd-408b-8d2d-09489d54b0cc" />
+
 
 These findings translated directly into practical insights for draft strategies and reflected how analytical thinking can drive better decisions—even in a game of chance.
 
@@ -45,4 +50,4 @@ Conclusion
 
 This project taught me the value of clear data processes and evidence-based decision-making. The same analytical mindset that helps win fantasy leagues applies to business strategy and performance analysis.
 
-You can explore the interactive Tableau dashboard [link] or view the full Python analysis on GitHub [link].
+You can explore the interactive Tableau dashboard [link] or view the full Python analysis on GitHub [link](https://github.com/tduthil/fantasy-football-data-analysis)].
