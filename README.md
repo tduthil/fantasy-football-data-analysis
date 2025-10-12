@@ -1,3 +1,7 @@
+### 🎯 Fantasy Football Insights Dashboard
+**Tools:** Python, Excel, Tableau  
+**Goal:** Identify undervalued fantasy players using projected performance data.
+________________________________________________________________________________________
 Unlocking Fantasy Football Success: A Data-Driven Approach
 
 Fantasy football has always combined strategy, luck, and passion—but this season, I decided to bring data analysis into the mix. My goal was simple: identify undervalued players and uncover what makes a fantasy football standout.
