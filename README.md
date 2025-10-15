@@ -34,7 +34,7 @@ A histogram revealed that only a handful of running backs exceeded 10 total touc
 
 
 
-A heatmap showed reception distributions by position, confirming that wide receivers dominate in PPR formats.
+A heatmap showed reception distributions by position, displaying scarcity of elite options.
 <img width="772" height="606" alt="image" src="https://github.com/user-attachments/assets/c0dfeb45-afcd-408b-8d2d-09489d54b0cc" />
 
 
